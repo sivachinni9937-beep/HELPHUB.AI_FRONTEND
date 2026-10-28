@@ -2,7 +2,13 @@
 
 > **"Report a problem. Find a solution. Build a better community."**
 
-HelpHub AI is a modern, responsive, open-source civic problem-solving platform connecting citizens, volunteers, community organizers, and authorities to report, track, and remediate local infrastructure concerns (sanitation, potholes, broken streetlights, water leaks, public accessibility).
+[![Live Backend](https://img.shields.io/badge/Render-Backend%20Live-brightgreen?logo=render)](https://helphub-ai-backend-1.onrender.com)
+[![API Docs](https://img.shields.io/badge/Swagger-API%20Docs-blue?logo=swagger)](https://helphub-ai-backend-1.onrender.com/docs)
+
+### 🌐 Live Production Backend
+The frontend connects to the deployed Render backend API:
+- **Production API URL**: [https://helphub-ai-backend-1.onrender.com](https://helphub-ai-backend-1.onrender.com)
+- **API Health Telemetry**: [https://helphub-ai-backend-1.onrender.com/api/health](https://helphub-ai-backend-1.onrender.com/api/health)
 
 ---
 
@@ -48,7 +54,7 @@ Set your configuration:
 ```env
 VITE_SUPABASE_URL=https://your-project.supabase.co
 VITE_SUPABASE_ANON_KEY=your-supabase-publishable-key
-VITE_API_BASE_URL=http://localhost:8000
+VITE_API_BASE_URL=https://helphub-ai-backend-1.onrender.com
 VITE_DEMO_MODE=false
 ```
 
