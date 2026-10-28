@@ -2,12 +2,14 @@
 
 > **"Report a problem. Find a solution. Build a better community."**
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Frontend%20Live-black?logo=vercel)](https://vercel.com/sivachinni9937-beep/helphub-ai-frontend/J3ybnr9AgmbqxVZ9yaLQpfeHPQML)
 [![Live Backend](https://img.shields.io/badge/Render-Backend%20Live-brightgreen?logo=render)](https://helphub-ai-backend-1.onrender.com)
 [![API Docs](https://img.shields.io/badge/Swagger-API%20Docs-blue?logo=swagger)](https://helphub-ai-backend-1.onrender.com/docs)
 
-### 🌐 Live Production Backend
-The frontend connects to the deployed Render backend API:
-- **Production API URL**: [https://helphub-ai-backend-1.onrender.com](https://helphub-ai-backend-1.onrender.com)
+### 🌐 Live Production Deployments
+- **Live Frontend App**: [https://helphub-ai-frontend.vercel.app](https://helphub-ai-frontend.vercel.app)
+- **Vercel Deployment**: [https://vercel.com/sivachinni9937-beep/helphub-ai-frontend/J3ybnr9AgmbqxVZ9yaLQpfeHPQML](https://vercel.com/sivachinni9937-beep/helphub-ai-frontend/J3ybnr9AgmbqxVZ9yaLQpfeHPQML)
+- **Production Backend API**: [https://helphub-ai-backend-1.onrender.com](https://helphub-ai-backend-1.onrender.com)
 - **API Health Telemetry**: [https://helphub-ai-backend-1.onrender.com/api/health](https://helphub-ai-backend-1.onrender.com/api/health)
 
 ---
